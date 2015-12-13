@@ -1,7 +1,7 @@
 name: Louwers
 favicon: null
 layout_spectrum: 0.21499599260278046
-typography_spectrum: 0.38488233811222017
+typography_spectrum: 0.52554
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#616265'
+    - '#000000'
+    - '#404040'
+    - '#000080'
+    - '#dbebf0'
   brandStrength: 0.8339710149448365
-  lightness: 0.2249697765801102
+  lightness: 0.5
   saturation: 0.9325890636537224
   rhythmicContrast: 0.2189465907867998
 purpose: []
